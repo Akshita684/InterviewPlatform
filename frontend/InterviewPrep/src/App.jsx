@@ -10,7 +10,7 @@ import InterviewPrep from "./pages/InterviewPrep/InterviewPrep";
 
 const App = () => {
   return (
-    <div className='text-5xl text-orange-600'>
+    <div className='text-5xl text-indigo-800'>
       <Router>
         <Routes>
           {/*Default Route*/}
